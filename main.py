@@ -1,4 +1,4 @@
-def printa_helloworld():
+def printa_olamundo():
     print("Olá, Mundo!")
 
-printa_helloworld()
+printa_olamundo()
